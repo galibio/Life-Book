@@ -1,1 +1,1 @@
-# Life-Book
+# Life-Book is a personal project.
